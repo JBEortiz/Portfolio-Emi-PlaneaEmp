@@ -4,23 +4,81 @@ import Icon from './Icon.astro';
 
 <section class="box skills">
 	<div class="stack gap-2 lg:gap-4">
-		<Icon icon="terminal-window" color="var(--accent-regular)" size="2.5rem" gradient />
-		<h2>Full Stack</h2>
-		<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod.</p>
+		<div class="flex-container">
+			<Icon icon="trophy" color="var(--accent-regular)" size="2.5rem" gradient />
+			<p> oct. 2023 - Actualmente</p>
+		  </div><h2>SICTED</h2>
+		  <details>
+			<summary>Evaluadora (auditora)  asesora y formadora del sistema de  calidad turística (Ministerio de Turismo)</summary>
+			<p></p>
+				<p>-Asesora, formadora y evaluadora del Sicted :Es un proyecto de mejora de la calidad de los destinos turísticos promovido por la Secretaría de Estado de Turismo (SETUR), con el apoyo de la Federación Española de Municipios y Provincias (FEMP), que trabaja con servicios turísticos de hasta 37 oficios diferentes, con el objetivo último de mejorar la experiencia y satisfacción del turista.
+				</p>
+			</details>
 	</div>
 	<div class="stack gap-2 lg:gap-4">
-		<Icon icon="trophy" color="var(--accent-regular)" size="2.5rem" gradient />
-		<h2>Industry Leader</h2>
-		<p>Neque viverra justo nec ultrices dui. Est ultricies integer quis auctor elit.</p>
+		<div class="flex-container">
+		<Icon icon="briefcase" color="var(--accent-regular)" size="2.5rem" gradient />
+		<p> sept. 1995 – jun. 2023.</p></div>
+		<h2>APEHA</h2>
+		<details>
+			<summary>Gerente y Secretaria General Asociación Prov. de Empresarios de Hostelería</summary>
+			<p>
+				-Dirección de proyectos, formación, dirección de promoción gastronómica y turística.</p>
+				<p>-Dirección y gestión de grupo de trabajo de 10 a 35 personas además de RRHH </p>
+				<p>-Gestión de comunicación externa. Gestión de medios de comunicación, seguimiento y publicación de notas de prensa.
+				</p><p>-Dirección de reuniones para firmas de convenios provinciales desde Coca Cola, cafés, Gas Repsol, etc.
+				</p><p>-Gestión de la comunicación interna a través de web, blog, redes sociales, boletín online.
+				</p><p>-Seguimiento de aplicaciones y sellos de hostelería segura y l'exquisit Mediterrani.
+				</p>
+				<p>-Mesas de trabajo en varios consejos rectores de formación profesional.
+				</p>
+				<p>-Mesa de trabajo de la Conselleria de Justicia y Administraciones públicas de la Ley de Espectáculos temas tratados horarios de los establecimientos públicos, fiestas y emergencias a nivel C.Valenciana.
+				</p>
+				<p>- Cursos impartidos en el Cdt de Alicante a través de APEHA.
+				</p><p>– Vocal suplente del Consejo de Comercio y Hostelería del Ayuntamiento de Alicante.
+				</p><p>-Miembro del Consejo de Turismo autonómico de la CEV.
+				</p><p>-Preparación, dirección y organización de eventos con Diputación Provincial de Alicante, Ayuntamiento de Alicante, Fitur, Madrid Fusión, Alicante Gastronómica, eventos internacionales como Día internacional de la Tapa, en La Haya,  etc., los últimos a nivel nacional, Madrid, Zaragoza y País Vasco.</p>
+			</p></details>
 	</div>
 	<div class="stack gap-2 lg:gap-4">
-		<Icon icon="strategy" color="var(--accent-regular)" size="2.5rem" gradient />
-		<h2>Strategy-Minded</h2>
-		<p>Urna porttitor rhoncus dolor purus non enim praesent ornare.</p>
+		<div class="flex-container">
+		<Icon icon="briefcase" color="var(--accent-regular)" size="2.5rem" gradient />
+		<p> ago. 1990 - ago. 1994</p></div>
+		<h2>ASISA</h2>
+		<details>
+			<summary>Responsable administrativa, centro de urgencia de Asisa en Alicante.</summary>
+			<p></p>
+				<p>-Administrativa en el centro de urgencias y recepcionista, departamento de clínicas el último año </p>
+			</details>
 	</div>
+	<div class="stack gap-2 lg:gap-4">
+		<div class="flex-container">
+		<Icon icon="briefcase" color="var(--accent-regular)" size="2.5rem" gradient />
+		<p>ene. 1986 - jul. 1990</p></div>
+		<h2>Alfamovil</h2>
+		<details>
+			<summary>Secretaria de Dirección en Alfamovil</summary>
+			<p>-Atención al cliente</p>
+				<p>-Jefa de recambios taller, Alfa Romeo, Ferrari, Innocenti, chevrolet</p>
+				<p>-Secretaria de Dirección</p>
+					<p>-Jefa de recambios de Ferrari y Maserati</p>
+					<p>-Responsable del departamento de Facturación de taller</p>
+				<p>-Matriculación de vehículos, cambios de nombre, seguros de vehículo, facturación de taller.</p>
+			</details>
+	</div>
+	
 </section>
 
 <style>
+	.flex-container {
+  display: flex;
+  align-items: center; 
+  gap: 15px;
+}
+
+.flex-container p {
+  margin: 0; 
+}
 	.box {
 		border: 1px solid var(--gray-800);
 		border-radius: 0.75rem;
@@ -38,7 +96,9 @@ import Icon from './Icon.astro';
 	.skills h2 {
 		font-size: var(--text-lg);
 	}
-
+	.skills summary{
+		color: var(--gray-400);
+	}	
 	.skills p {
 		color: var(--gray-400);
 	}
