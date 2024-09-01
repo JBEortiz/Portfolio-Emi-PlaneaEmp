@@ -1,10 +1,10 @@
 ---
-title: GVA CdT Alacant
+title: Guía Repsol
 publishDate: 2020-03-02 00:00:00
-img: /assets/stock-1.jpg
+img: /assets/work2.webp
 img_alt: Iridescent ripples of a bright blue and pink liquid
 description: |
-  Evento de la GVA CdT Alacant.
+  Guía Repsol
 tags:
   - Aprosaba 
   - APHEA
@@ -13,7 +13,8 @@ tags:
 
 ## Evento de la GVA CdT Alacant.
 
-> Mas informacion (por ejemplo un evento especial para bla bla bla bla bla bla bla bla bla bla)
+>Organización de Soles son Amores de la guía Repsol
+ Subvención para la realización del evento, organización, comunicación del mismo
 
 ### GVA CdT Alacant.
 
