@@ -6,8 +6,10 @@ img_alt: Gala Insignia de Oro .
 description: |
   Gala Insignia de Oro.
 tags:
-  - Design
-  - Branding
+  - Gala
+  - Premios
+  - Premios Alicante
+  - Gastronomia Alicante
 ---
 
 Gala Insignia de Oro durante más de una década se celebró para reconocer al hostelero/a que en edad de retirarse , el establecimiento seguía abierto por sus descendientes.
