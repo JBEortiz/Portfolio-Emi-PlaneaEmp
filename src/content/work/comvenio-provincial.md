@@ -7,7 +7,6 @@ description: |
   Convenio Provincial
 tags:
   - Empresarial 
-  - APHEA
   - Gerencia 
 ---
 

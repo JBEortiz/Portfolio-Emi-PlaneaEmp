@@ -7,8 +7,6 @@ description: |
   Ruta del Tardeo.
 tags:
   - Gastronomia
-  - Ruta del Tardeo
-  - Gastronomia Alicante
   - Tapeo
 ---
 >RUTA DEL TARDEO: TAPAS Y COPAS
@@ -34,11 +32,9 @@ con sus propias rutas.
 
 <iframe 
     src="https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2Ffehpa.alicante%2Fvideos%2F1443757939016581%2F&show_text=false&width=560&t=0" 
-    width="560" 
-    height="314" 
+    width="380"
+    height="204" 
     style="border:none; overflow:hidden; border-radius: 15px;" 
-    scrolling="no" 
-    frameborder="0" 
     allowfullscreen="true" 
     allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" 
     allowFullScreen="true">

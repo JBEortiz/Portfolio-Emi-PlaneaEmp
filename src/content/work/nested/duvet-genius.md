@@ -7,9 +7,7 @@ description: |
   Platos de cuchara, en todas sus jornadas hasta el 2023
 tags:
   - Arroces
-  - Platos de la cuchara
   - Premios
-  - Concurso
 ---
 ### Gastronomia en Alicante
 

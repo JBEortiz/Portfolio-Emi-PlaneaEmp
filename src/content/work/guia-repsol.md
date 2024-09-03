@@ -6,10 +6,8 @@ img_alt: Imagen de soles son Amores
 description: 
   Soles son Amores
 tags:
-  - Eventos 
   - Alicante
   - Gastronomía 
-  - Comer por Alicante
 ---
 
 ## Soles son Amores Campaña en Alicante.

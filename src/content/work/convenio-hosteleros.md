@@ -7,7 +7,6 @@ description: |
   Premios Plato Alicante
 tags:
   - Premios Plato 
-  - Premios Alicante
   - Gastronomia
 ---
 
